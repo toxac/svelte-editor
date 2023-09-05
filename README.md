@@ -1,7 +1,14 @@
 # Testing Rich Text Editors for svelte
 
-## Tiptpa
+## Tiptap
 [https://tiptap.dev/installation/svelte](tiptap)
+
+### Usage
+
+**Install Dependecies**
+```
+npm install @tiptap/core @tiptap/pm @tiptap/starter-kit
+```
 
 ## Svelte Lexical
 [https://github.com/umaranis/svelte-lexical/blob/master/demos/richtext-editor/src/App.svelte](svelte-lexical)
