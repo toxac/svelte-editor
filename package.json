@@ -35,6 +35,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@supabase/auth-helpers-sveltekit": "^0.10.2",
+		"@supabase/supabase-js": "^2.33.1",
 		"@tinymce/tinymce-svelte": "^1.0.1",
 		"@tiptap/core": "^2.1.8",
 		"@tiptap/pm": "^2.1.8",
