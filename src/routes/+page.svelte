@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<main class="p-20">
+    <h1 class="text-4xl font-light">Rich Text Editors for SvelteKit</h1>
+    <h2 class="text-xl font-semibold"><a href="/tiptap">TipTap</a></h2>
+</main>
+
+
